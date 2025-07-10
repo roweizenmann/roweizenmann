@@ -1,6 +1,6 @@
 # Olá, eu sou o Rodrigo! 👋
 
-### Desenvolvedor BAck-End | 🚀
+### Desenvolvedor Back-End | 🚀
 
 ---
 
