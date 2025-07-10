@@ -1,6 +1,6 @@
 # Olá, eu sou o Rodrigo! 👋
 
-### Desenvolvedor Front-End | Apaixonado por Inovação e Tecnologia 🚀
+### Desenvolvedor BAck-End | 🚀
 
 ---
 
